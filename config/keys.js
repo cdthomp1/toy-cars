@@ -1,3 +1,3 @@
 module.exports = {
-    MogoURI: '[YOUR CONNECTION STRING HERE]'
+    MogoURI: 'mongodb+srv://devcameron96:devcameron96@devconnector-zzkco.mongodb.net/tackle?retryWrites=true&w=majority'
 }
